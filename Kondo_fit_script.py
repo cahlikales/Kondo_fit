@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Oct 19 22:32:15 2020
-
 @author: Aleš Cahlík, FZU
 """
 ### lmfit package used for the fitting, see https://lmfit.github.io/lmfit-py/model.html
